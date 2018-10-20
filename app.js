@@ -9,5 +9,5 @@ contacts.push('loli');
 
 contacts.forEach ((c,index) => { console.log(c) });
 contacts.concat('hi');
-
+alter("hello world");
 
