@@ -8,6 +8,7 @@ contacts= ['Pierre','Paul','Joe','coco'];
 contacts.push('loli');
 
 contacts.forEach ((c,index) => { console.log(c) });
+
 contacts.concat('hi');
 
 
